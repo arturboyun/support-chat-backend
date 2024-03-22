@@ -9,7 +9,7 @@
 2. `poetry shell`
 3. `uvicorn src.main:app --reload`
 
-# TODO:
+## TODO:
 - [x] Websocket logic
 - [ ] Database support
 - [ ] Auth logic
